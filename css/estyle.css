@@ -1,0 +1,56 @@
+
+nav ul {
+    display: flex;
+    justify-content: space-around; 
+}
+
+nav ul li {
+    font-family: 'Amatic SC', cursive;
+    font-size: 1rem;
+    font-weight: bolder;
+    list-style: none;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 2rem;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:grey    
+}
+
+.navCatalina {
+      background-color: #ffc8a2;
+}
+
+.navPrimermes {
+   background-color: #b5ead7;
+}
+
+.navSegundomes {
+   
+    background-color: #ff9aa2;
+}
+
+.navTercermes {
+    background-color: #ffffb5;
+}
+
+.navContacto {
+     background-color: #cbaacb;
+}
+
+
+ul{
+    text-align: center;
+}
+
+ul li {
+    font-family: 'Amatic SC', cursive;
+    font-size: x-large;
+    list-style-type: circle;
+}
+h1{
+    text-align: center;
+    padding-top: 6rem;
+}
